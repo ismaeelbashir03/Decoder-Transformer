@@ -9,3 +9,6 @@ some adjustments were made to the original diagram above (pre layer norm, no enc
 
 I implemented the Decoder part of the paper to generate text in a style of what it is trained in (shakespeare)
 (Use a gpu as the model is quite big, to test on cpu, lower the number of head, blocks and embeddings etc.)
+
+This decider is the pretraining for a model like chat-gpt. It can be fine tuned to become a question answering bot or become a sentiment analysis
+or some other things. but this code is only for pretraining the model to complete text it was trained on.
