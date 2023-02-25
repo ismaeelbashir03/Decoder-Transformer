@@ -1,6 +1,8 @@
 # Decoder-Transformer
 This is transformer (without encoder) from scratch with torch
 
+trained model weights after 5000 steps: https://drive.google.com/file/d/1Bkcl2UpZFk9bVzXBgnWqOZkEZaPpJfhn/view?usp=share_link
+
 This code is based on the 'Attention is all you need' Paper: https://arxiv.org/abs/1706.03762
 
 ![diagram of transformer model](https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png)
