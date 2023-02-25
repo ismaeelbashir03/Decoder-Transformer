@@ -13,9 +13,6 @@ device = 'mps' # mps/cpu/cuda
 
 # functions used
 
-# random seeding to test, {REMOVE}
-torch.manual_seed(1337)
-
 # creating a function to get the bacthes of data
 def get_batch(split):
 
