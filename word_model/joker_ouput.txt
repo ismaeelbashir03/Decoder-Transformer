@@ -1,0 +1,67 @@
+speaker_heading:  JOKER  
+    text:  Batman  walks  in.  
+  speaker_heading:  BATMAN  (  cont.)  
+  text:  He  needs  to  Crane.  It  
+  dialog:  --  
+  text:  --  and  SLAMS  TIPTREE  staggers  backward.  SHOT  IN  THE  CHEST.  He  
+  text:  as  the  bat-pod  streaks  into  a  cold  gun  around  Batman's  mouth.  
+  text:  Within  THE  seconds,  SEE  A  NAME,  "ARTHUR  FLECK"  Flass  over  the  Laceland.  
+  speaker_heading:  RIDDLER  
+  text:  From  it's  the  day  Harvey  makes  a  head.  
+  dialog:  Stops  reading,  stays  on--  
+  dialog:  "You  want  to  make  for  more  voices  
+  dialog:  Hey,  just-  
+  speaker_heading:  THE  JOKER  (  OS)  
+  dialog:  Go  out  gettin'  laid.  The  guy  
+  text:  hands  together  go  and  a  look  in  at  Penny's  reaction--  HE'S  
+  text:  HE'S  NOW  IN  THE  INTERVIEW  ROOM  --  he's  
+  text:  standing  on  the  ledge  above  all  on  Gotham's  face.  
+  speaker_heading:  JOKER  
+  dialog:  (  have  to  talk  about  the  
+  dialog:  ball.  I  just  can't  ask  you  to  him?  
+  dialog:  (  turns  to  Batman)  
+  dialog:  By  the  way,  B-man,  of  them  that  
+  dialog:  one.  
+  scene_heading:  INT.  ROOFTOP  -  A  MOMENT  LATER  
+  text:  BATMAN  steps  to  overhead  an  upper  vault  of  a  
+  text:  handful  of  the  face  --  and  the  first  thing  on  the  
+  text:  inner  track,  --  he  doesn't  want  to  make  talk  to  
+  dialog:  replace  
+  text:  and  suddenly  at  him.  
+  speaker_heading:  CUT  TO:  
+  scene_heading:  INT.  WAYNE  MANOR  -  BRUCE'S  BEDROOM  -  DAY  
+  text:  BRUCE  stands  in  front  of  ALFRED  is  who's  crouched  in  the  
+  text:  intersection  as  BRUCE  can  pass  underneath.  
+  text:  The  images  REAR  of  the  tunnel,  looks  back  on  the  crowded  platform,  
+  dialog:  the  passengers  who  get  the  same  a  
+  dialog:  little  boy  on  my  boy.  
+  text:  The  Joker  moves  over  to  the  other.  People  then  his  bag  until  suddenly--  
+  text:  WHAP!  Out  there,  in  a  spot  toward  the  sidewalk.  
+  text:  The  Batmobile  TEARS  left,  and  ACCELERATES  down  the  street...  
+  text:  CRUSHED  he  goes  off  into  the  roof  of  the  trees,  disappearing  
+  scene_heading:  EXT.  STREET,  GOTHAM  HEIGHTS  --  
+  text:  Batman  DROPS  his  hand  over  to  a  roof.  
+  speaker_heading:  CATWOMAN  
+  dialog:  I  should  kill  you.  
+  scene_heading:  122  INT.  EDWARD'S  CUBICLE  (  MOVING),  
+  dialog:  minds.  
+  text:  The  JOKER  glances  casually  at  the  file  to  be  in  the  Joker's  face.  
+  speaker_heading:  JOKER  
+  dialog:  There  was  nothing  to  say  we're  almost  
+  dialog:  much  to  one  man.  I  just  want  to  get  a  
+  dialog:  reservation  for  life  I  was  just  to  get  
+  dialog:  out  there.  
+  text:  She  doesn't  know  who  nods.  He  keeps  walking...  
+  speaker_heading:  SOPHIE  
+  dialog:  (  surprised)  
+  dialog:  Here  you  never  get  to.  Not  to  
+  speaker_heading:  JOGGER  
+  dialog:  I'm  sure  you're  our  blind  with  
+  dialog:  a  girl  like  party  to  you.  You  like  
+  dialog:  exactly.  
+  speaker_heading:  SOPHIE  
+  dialog:  Pretty  glamorous,  right?  
+  dialog:  Beat.  
+  speaker_heading:  JOKER  
+  dialog:  I  lied.  
+  speaker_heading:  SOCIAL
