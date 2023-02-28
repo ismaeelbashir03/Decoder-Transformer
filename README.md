@@ -7,7 +7,7 @@ word prediction model 1 weights after 5000 steps - loss: 1.09: https://drive.goo
 
 word prediction model 2 weights after 10000 steps - loss: 0.57: https://drive.google.com/file/d/1FTxeQf0NMWVSOLHVNWUNU5s6gdrYaqi0/view?usp=share_link
 
-word prediction model (GPT size - 88.5M) - loss: 1.7: https://drive.google.com/file/d/1WOlH5tbcs1XnvsotsukXCws-qMW1rMPp/view?usp=share_link
+word prediction model (GPT size - 88.5M) 5000 training steps with batch 6 then upgraded gpu for 4000 more steps with batch 32 - loss: 0.5: https://drive.google.com/file/d/1WOlH5tbcs1XnvsotsukXCws-qMW1rMPp/view?usp=share_link
 
 This code is based on the 'Attention is all you need' Paper: https://arxiv.org/abs/1706.03762
 
