@@ -7,7 +7,7 @@ word prediction model 1 weights after 5000 steps - loss: 1.09: https://drive.goo
 
 word prediction model 2 weights after 10000 steps - loss: 0.57: https://drive.google.com/file/d/1FTxeQf0NMWVSOLHVNWUNU5s6gdrYaqi0/view?usp=share_link
 
-word prediction model (GPT size - 88.5M) 5000 training steps with batch 6 then upgraded gpu for 4000 more steps with batch 32 - loss: 0.5: https://drive.google.com/file/d/1WOlH5tbcs1XnvsotsukXCws-qMW1rMPp/view?usp=share_link
+word prediction model (GPT size - 88.5M) 5000 training steps with batch 6 then upgraded gpu for 4000 more steps with batch 32 - loss: 0.4: https://drive.google.com/file/d/1cOYKe_7648ioLF5UV4_F2lp-fi5J90VC/view?usp=share_link
 
 This code is based on the 'Attention is all you need' Paper: https://arxiv.org/abs/1706.03762
 
@@ -23,3 +23,5 @@ can be found in the word_model folder. - this is a more advanced version of ther
 
 This decider is the pretraining for a model like chat-gpt. It can be fine tuned to become a question answering bot or become a sentiment analysis
 or some other things. but this code is only for pretraining the model to complete text it was trained on.
+
+Looking back on this project, if i had more data i could have had a more complex model as my script data was only 56k lines of code (nowhere near enough),  but even with that small amount, it performs well at doing the same writing style and has somewhat coherant sentences.
